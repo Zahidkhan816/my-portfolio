@@ -12,7 +12,7 @@ const Blog = () => {
               Blog
             </h3>
             <p className="subtitle-a">
-              Lorem ipsum, dolor sit amet consectetur adipisicing elit.
+             Alphanites Software house chicago
             </p>
             <div className="line-mf" />
           </div>
